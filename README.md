@@ -4,7 +4,10 @@ A simple and clean **Age Calculator** built using **HTML, CSS and JavaScript**.
 Users can select their date of birth, and the calculator displays the exact age in **years, months, and days**.
 
 ---
+## Live Demo
 
+https://mjunaid65665.github.io/Age-Calculator/
+---
 ## 🚀 Features
 
 - 📅 Calculate age from date of birth
@@ -78,4 +81,5 @@ You may use this project for learning purposes.
 ---
 
 ⭐ If you find this useful, don't forget to **Star** the repo!
+
 
